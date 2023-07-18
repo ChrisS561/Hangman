@@ -1,0 +1,15 @@
+/Users/chris/Desktop/Hangman/bin/Debug/net7.0/Hangman
+/Users/chris/Desktop/Hangman/bin/Debug/net7.0/Hangman.deps.json
+/Users/chris/Desktop/Hangman/bin/Debug/net7.0/Hangman.runtimeconfig.json
+/Users/chris/Desktop/Hangman/bin/Debug/net7.0/Hangman.dll
+/Users/chris/Desktop/Hangman/bin/Debug/net7.0/Hangman.pdb
+/Users/chris/Desktop/Hangman/obj/Debug/net7.0/Hangman.csproj.AssemblyReference.cache
+/Users/chris/Desktop/Hangman/obj/Debug/net7.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chris/Desktop/Hangman/obj/Debug/net7.0/Hangman.AssemblyInfoInputs.cache
+/Users/chris/Desktop/Hangman/obj/Debug/net7.0/Hangman.AssemblyInfo.cs
+/Users/chris/Desktop/Hangman/obj/Debug/net7.0/Hangman.csproj.CoreCompileInputs.cache
+/Users/chris/Desktop/Hangman/obj/Debug/net7.0/Hangman.dll
+/Users/chris/Desktop/Hangman/obj/Debug/net7.0/refint/Hangman.dll
+/Users/chris/Desktop/Hangman/obj/Debug/net7.0/Hangman.pdb
+/Users/chris/Desktop/Hangman/obj/Debug/net7.0/Hangman.genruntimeconfig.cache
+/Users/chris/Desktop/Hangman/obj/Debug/net7.0/ref/Hangman.dll
